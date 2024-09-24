@@ -1,7 +1,7 @@
 import { Request, Response } from 'express';
 import { User } from '../models/types.js';
 import { v4 as uuidv4 } from 'uuid';
-import { writeUserToJsonFile } from '../DAL/jsonUser.js';
+import { writeUserToJsonFile } from '../DAL/jsonUsers.js';
 
 
 
