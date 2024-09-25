@@ -1,0 +1,44 @@
+[
+    {
+        "userName": "abcd ",
+        "password": "$2b$10$1HSATvE2xHdFhyfXZr/PZ.Uaw6I4UfRNzyYLvKbKnr87C8uLxyprC",
+        "id": "1",
+        "books": "[]"
+    },
+    {
+        "userName": "blabla ",
+        "password": "$2b$10$spWMMaFxTrTvVKFziGONROP73raqiKeWS8x1eQ8l3RhuaK2uS4oS2",
+        "id": "418096b2-a88a-4bcd-a920-d2f3a80c040c",
+        "books": []
+    },
+    {
+        "userName": "ohad ",
+        "password": "$2b$10$VVFFvxUtuegvSa74Q63CIu9CK69i9H9lW4eGPG6Cywh7aHzOGCeW2",
+        "id": "ba16b301-6e10-4aed-9c53-d1e6df2fc587",
+        "books": []
+    },
+    {
+        "userName": "ohad12",
+        "password": "$2b$10$XLmeMuk3TTx50CRP8XMJsuMOCFir7J17FDY4AStknIbXG3.IMFdT2",
+        "id": "60fe4b57-efef-49b9-b4e8-1dce85d59d84",
+        "books": []
+    },
+    {
+        "id": "829d89e2-ae3d-4522-8a2b-def44db7fdbb",
+        "userName": "elad",
+        "password": "$2b$10$/4uIg43iNoTaW4LUfSoPDeSSElnmZ.YDfRokMZZYrLyAMFMzPLBnG",
+        "books": []
+    },
+    {
+        "id": "27b6672b-2860-40c4-8e66-9ef550aec77f",
+        "userName": "יששכר",
+        "password": "$2b$10$mZo/AH2pWrTBCfCpVP1yjOzHlLcfa2pGOErjlCIwc.zbezLb05PHq",
+        "books": []
+    },
+    {
+        "id": "1",
+        "userName": "a",
+        "password": "$2b$10$zKUrmuGsutAx2JAQ.T/HeeHnOwTGsTrb64Glc0B22vhF2qaIXOq7m",
+        "books": []
+    }
+]
